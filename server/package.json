@@ -6,8 +6,8 @@
     "scripts": {
         "start": "node app.js",
         "server": "nodemon app.js",
-        "client": "cd ../client && npm run build",
-        "build": "npm run client && npm run server",
+        "client": "cd ../client && npm install && npm run build",
+        "build": "npm run client && npm install && npm run server",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
