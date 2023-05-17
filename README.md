@@ -4,17 +4,17 @@ This is a full-stack web application that allows users to track job applications
 
 ## Features
 
-- User authentication and authorization using JWT tokens
-- Ability to register and login
-- Create, read, update, and delete job applications and interviews
-- Filter and sort job applications by status, company, and date
-- Pagination and infinite scrolling for job applications list
-- Responsive design using Bootstrap 4
+-   User authentication and authorization using JWT tokens
+-   Ability to register and login
+-   Create, read, update, and delete job applications and interviews
+-   Filter and sort job applications by status, company, and date
+-   Pagination and infinite scrolling for job applications list
+-   Responsive design using Bootstrap 4
 
 ## Requirements
 
-- Node.js and npm
-- MongoDB instance (local or cloud-based)
+-   Node.js and npm
+-   MongoDB instance (local or cloud-based)
 
 ## Getting started
 
@@ -58,7 +58,7 @@ JWT_SECRET=<your-jwt-secret>
 7. Start the development server:
 
 ```
-npm run dev
+npm run server
 ```
 
 8. Open your browser and go to http://localhost:5000 to view the application.
