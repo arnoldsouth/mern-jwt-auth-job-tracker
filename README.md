@@ -65,7 +65,7 @@ npm run server
 
 ## Deployment
 
-To deploy the application to a production environment, you can use a cloud platform like Heroku or AWS Elastic Beanstalk. Make sure to set the MONGO_URI and JWT_SECRET environment variables in your cloud provider's dashboard.
+To deploy the application to a production environment, you can use a cloud platform like Heroku. Make sure to set the MONGO_URI and JWT_SECRET environment variables in your cloud provider's dashboard.
 
 ### License
 
