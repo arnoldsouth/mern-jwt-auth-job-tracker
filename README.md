@@ -1,6 +1,6 @@
 # MERN JWT Auth Job Tracker
 
-This is a full-stack web application that allows users to track job applications and interviews. The application is built using the MERN stack (MongoDB, Express, React, Node.js) and JWT authentication.
+This is a full-stack web application that allows users to personally update and track their job status applications. The application is built using the MERN stack (MongoDB, Express, React, Node.js) and JWT authentication.
 
 ## Features
 
